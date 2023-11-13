@@ -1,0 +1,5 @@
+Streamlit 
+Numpy 
+Pandas 
+Rembg
+PIL
