@@ -16,6 +16,7 @@ This application integrates the OpenAI API to provide responses to user question
    git clone https://github.com/Basit-Arif/streamlit/
    cd OpenAi/
 2. Install Dependencies
+   ```bash
    pip install -r requirments.txt
    streamlit run ASK_ANY_THING.py
 
