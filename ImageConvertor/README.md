@@ -27,4 +27,4 @@ The Image Processing Suite is a simple web application built using Streamlit and
 - Background Removal: Remove the background of images using the "Remove Background" button.
 - Download Edited Images: Download the modified images using the "Download Edited Image" button.
 
-![Streamlit App Preview](preview.png)
+![Streamlit App Preview](ImageConvertor.gif)
