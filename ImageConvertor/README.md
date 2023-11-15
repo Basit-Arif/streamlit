@@ -26,5 +26,6 @@ The Image Processing Suite is a simple web application built using Streamlit and
 - Grayscale Conversion: Convert uploaded images to grayscale with the "Convert to Grayscale" button.
 - Background Removal: Remove the background of images using the "Remove Background" button.
 - Download Edited Images: Download the modified images using the "Download Edited Image" button.
-
+- 
+## PREVIEW
 ![Streamlit App Preview](ImageConvertor.gif)
